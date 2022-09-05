@@ -1,0 +1,22 @@
+{
+  "name": "google-maps-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "parcel": "^2.7.0",
+    "prettier": "2.7.1",
+    "typescript": "^4.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-bignichok:bignichok/google-maps-ts.git"
+  },
+  "author": "Nikita Samoilenko",
+  "license": "ISC"
+}

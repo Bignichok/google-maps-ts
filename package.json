@@ -6,12 +6,14 @@
   "dependencies": {},
   "devDependencies": {
     "@faker-js/faker": "^7.5.0",
+    "@types/google.maps": "^3.50.0",
     "parcel": "^2.7.0",
     "prettier": "2.7.1",
     "typescript": "^4.8.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
